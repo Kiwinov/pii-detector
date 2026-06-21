@@ -1,9 +1,4 @@
 # PII Entity Recognition for Noisy STT Transcripts
-
-**Name: Samarth K J**
-**Roll Number: CE22B099**
-
-## Project Overview
 This project implements a high-precision, low-latency Named Entity Recognition (NER) system designed to detect Personally Identifiable Information (PII) in noisy Speech-to-Text (STT) transcripts.
 
 The objective was to identify sensitive entities (Credit Cards, Phones, Emails, Names, Dates) with a **PII Precision target of ≥ 0.80** while maintaining a strict inference latency budget of **p95 ≤ 20ms** on a standard CPU.
